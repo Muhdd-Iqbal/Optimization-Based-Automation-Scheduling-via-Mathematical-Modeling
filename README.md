@@ -39,3 +39,5 @@ Tech:
 - Jupyter Notebook / Google Colab
 - Python
 - pulp, pandas, and numpy library
+
+<img width="444" height="139" alt="image" src="https://github.com/user-attachments/assets/521f7db5-be4a-4c1a-8d81-5cf299b0e53d" />
