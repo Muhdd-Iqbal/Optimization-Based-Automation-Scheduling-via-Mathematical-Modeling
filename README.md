@@ -1,6 +1,4 @@
 # Optimization-Based-Automation-Scheduling-via-Mathematical-Modeling
-Mathematical Modeling , Linear Programming, Python
-
 --------------------------
 Example of Problem Statement:
 
@@ -35,7 +33,7 @@ Therefore, the HR and production supervision teams require assistance in generat
   - The program is success if the status = "Optimal"
 
 Result:
-- A dataframe that contains information about employees including which shift they work and their days off.
+- A dataframe that contains information abut employees including shift type they work, days off, etc.
   ----------------------------
   Tech
   - Jupyter Notebook / Google Colab
