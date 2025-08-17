@@ -28,16 +28,24 @@ Therefore, the HR and production supervision teams require assistance in generat
   ----------------------
 Methodology:
 - Install pulp library in your jupyter notebook
-  !pip install pulp
+  <img width="682" height="197" alt="image" src="https://github.com/user-attachments/assets/118f74f7-82ee-40cc-ac34-a5d76e8e8338" />
+
 - Convert the problem statement into mathematical equation
+  <img width="465" height="52" alt="image" src="https://github.com/user-attachments/assets/9aa962aa-0d49-465b-977c-c06e03b373bd" />
+  Use `minimum optimization method`
+
 - The program is success if the status = "Optimal"
+  <img width="225" height="93" alt="image" src="https://github.com/user-attachments/assets/dc095f91-5463-4950-94bf-429359bb0d6f" />
+
 
 Result:
 - A dataframe that contains information abut employees including shift type they work, days off, etc.
+
+  Overview of the results:
+<img width="1234" height="435" alt="image" src="https://github.com/user-attachments/assets/096f922a-a6e1-418f-8c2c-ade574010776" />
+
   ----------------------------
 Tech:
 - Jupyter Notebook / Google Colab
 - Python
 - pulp, pandas, and numpy library
-
-<img width="444" height="139" alt="image" src="https://github.com/user-attachments/assets/521f7db5-be4a-4c1a-8d81-5cf299b0e53d" />
