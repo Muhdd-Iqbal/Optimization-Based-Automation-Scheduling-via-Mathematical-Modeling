@@ -45,7 +45,7 @@ Result:
 <img width="1234" height="435" alt="image" src="https://github.com/user-attachments/assets/096f922a-a6e1-418f-8c2c-ade574010776" />
 
   ----------------------------
-Tech:
+Tools:
 - Jupyter Notebook / Google Colab
 - Python
 - pulp, pandas, and numpy library
