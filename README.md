@@ -1,6 +1,6 @@
 # Optimization-Based-Automation-Scheduling-via-Mathematical-Modeling
 --------------------------
-Example of Problem Statement:
+Problem Statement:
 
 There are 45 employees working as production operators to produce lamp. Each day, the company has a production target that is divided between weekdays and weekends with the following details:
   - The target on weekday is to complete 6000 units.
@@ -26,16 +26,16 @@ Therefore, the HR and production supervision teams require assistance in generat
 
 !Notes: The following cases were created based on assumed scenarios for the purpose of model development.
   ----------------------
-  Methodology:
-  - Install pulp library in your jupyter notebook
-    !pip install pulp
-  - Convert the problem statement into mathematical equation
-  - The program is success if the status = "Optimal"
+Methodology:
+- Install pulp library in your jupyter notebook
+  !pip install pulp
+- Convert the problem statement into mathematical equation
+- The program is success if the status = "Optimal"
 
 Result:
 - A dataframe that contains information abut employees including shift type they work, days off, etc.
   ----------------------------
-  Tech
-  - Jupyter Notebook / Google Colab
-  - Python
-  - pulp, pandas, and numpy library
+Tech:
+- Jupyter Notebook / Google Colab
+- Python
+- pulp, pandas, and numpy library
